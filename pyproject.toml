@@ -1,0 +1,10 @@
+[project]
+name = "test-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8.10"
+dependencies = [
+    "fastapi>=0.115.12",
+    "uvicorn>=0.33.0",
+]
